@@ -1,0 +1,4 @@
+FROM docker.elastic.co/kibana/kibana:5.3.1
+MAINTAINER ramtruely6@gmail.com
+EXPOSE 5601
+
